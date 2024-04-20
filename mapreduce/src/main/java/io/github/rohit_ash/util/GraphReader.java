@@ -1,8 +1,8 @@
-package io.github.innofang.util;
+package io.github.rohit_ash.util;
 
-import io.github.innofang.bean.Edge;
-import io.github.innofang.bean.Graph;
-import io.github.innofang.bean.Vertex;
+import io.github.rohit_ash.bean.Edge;
+import io.github.rohit_ash.bean.Graph;
+import io.github.rohit_ash.bean.Vertex;
 import org.apache.hadoop.fs.FileSystem;
 import org.apache.hadoop.fs.Path;
 

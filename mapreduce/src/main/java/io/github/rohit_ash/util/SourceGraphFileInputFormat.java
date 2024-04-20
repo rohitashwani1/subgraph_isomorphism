@@ -1,9 +1,9 @@
-package io.github.innofang.util;
+package io.github.rohit_ash.util;
 
 
-import io.github.innofang.bean.Edge;
-import io.github.innofang.bean.Graph;
-import io.github.innofang.bean.Vertex;
+import io.github.rohit_ash.bean.Edge;
+import io.github.rohit_ash.bean.Graph;
+import io.github.rohit_ash.bean.Vertex;
 import org.apache.hadoop.fs.Path;
 import org.apache.hadoop.io.IntWritable;
 import org.apache.hadoop.mapreduce.InputSplit;
