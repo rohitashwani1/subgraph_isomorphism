@@ -1,4 +1,4 @@
-package io.github.innofang.bean;
+package io.github.rohit_ash.bean;
 
 import org.apache.hadoop.io.IntWritable;
 import org.apache.hadoop.io.Text;
